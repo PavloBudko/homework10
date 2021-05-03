@@ -1,10 +1,11 @@
 body{
 	background:#222;
-	padding: 100px;
+	padding: 200px;
 	font-size: 10px; /*increase me to scale toogle-icon*/
 }
 
 #nav-container{
+	padding: 150px 0px 150px 0px;
 	position: absolute;
 	top: 50%;
 	left: 50%;
