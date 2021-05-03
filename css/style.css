@@ -6,6 +6,7 @@ body{
 
 #nav-container{
 	padding: 150px 0px 150px 0px;
+	margin: 150px;
 	position: absolute;
 	top: 50%;
 	left: 50%;
