@@ -1,5 +1,4 @@
 body {
-    background: e3dbd2; 
     border-top-width: 100px;
     padding-top: 300px;
     padding-right: 550px;
@@ -50,6 +49,8 @@ body {
     clear: left;
     padding-top: 1.5em;
   }
+
+
   .shadow div {
     -webkit-filter: blur(1px);
     filter: blur(1px);
